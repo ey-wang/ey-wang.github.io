@@ -41,3 +41,36 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+@font-face {
+  font-family: 'Glacial Indifference';
+  src: url('/assets/fonts/glacial-indifference.regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Glacial Indifference';
+  src: url('/assets/fonts/glacial-indifference.bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body,
+.page,
+.page__content,
+.archive,
+.sidebar,
+.author__content,
+.masthead,
+.greedy-nav,
+.author__name,
+.author__bio,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Glacial Indifference', sans-serif !important;
+}
