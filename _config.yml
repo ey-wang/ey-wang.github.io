@@ -24,7 +24,7 @@ repository               : " "
 author:
   # Biographic information
   avatar           : "headshot_square.jpg"
-  name             : "Elaine Wang"
+ # name             : "Elaine Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Yale University, Department of Psychology"
   location         : "New Haven, CT"
