@@ -12,4 +12,4 @@ To learn a sport, make new friends, master mathematics, or achieve any long-term
 
 Prior to joining the PhD program, I received my Bachelor's degree in psychology and neuroscience from the University of Toronto.
 
-Beyond the lab, I enjoy jewelry-making, cooking, playing tennis, and creating new records on the NYT crossword with friends!
+Beyond the lab, I enjoy jewelry-making, painting, cooking, playing tennis, and creating new records on the NYT crossword with friends!
