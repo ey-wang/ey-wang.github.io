@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme             : alshedivat/al-folio
-site_theme               : "blue" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Elaine (Yilin) Wang"
 title_separator          : "-"
 name                     : &name ""
